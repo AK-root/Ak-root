@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Adarsh Kumar</h1>
 <h3 align="center">A passionate Web Developer from India</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ak-root&label=Profile%20views&color=0e75b6&style=flat" alt="ak-root" /> </p>
-
 - 🔭 I’m currently working on **Ingredient Insights**
 
 - 🌱 I’m currently learning **MERN Stack**
